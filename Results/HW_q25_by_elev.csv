@@ -1,0 +1,6 @@
+elev_zone,elev_band,q25.hotwet_freq,q25.hotwet_meandur,q25.hotwet_resistance,q25.hotwet_recovery
+1,<500 m,0,1,0.342216626,1
+2,500–1500 m,0,1,-0.34844929,1
+3,1500–2500 m,0,1,-1.001706392,1
+4,2500–3500 m,0,1,0.838957936,1
+5,>=3500 m,0,1,-0.416959614,1
